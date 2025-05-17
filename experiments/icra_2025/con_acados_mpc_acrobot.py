@@ -66,7 +66,7 @@ Nlp_max_iter=40
 vmax = 16 #rad/s
 vf = 16
 
-bend_the_rules = False
+bend_the_rules = True
 tl = mpar.tl
 tl[actuated_joint] = 6.0
 if bend_the_rules:
